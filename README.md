@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chapter-2-Code
 =======
 The code in this chapter is developed based on the OpenCOOD project.
